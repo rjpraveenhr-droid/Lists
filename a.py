@@ -38,3 +38,8 @@ print(L)
 L=[9,1,2,9,3,5,9,20,2]
 L.reverse()
 print(L)
+
+L.sort()
+print(L)
+L.sort(reverse=True)
+print(L)
